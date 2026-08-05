@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "hero-kibreab",
+    "category": "hero",
+    "title": "Kibreab Kebede",
+    "caption": "Statistics graduate, photographer, and unapologetic film obsessive.",
+    "alt": "Kibreab Kebede in graduation regalia holding a personalized diploma folder",
+    "width": 2556,
+    "height": 3840
+  },
+  {
+    "slug": "modern-addis",
+    "category": "shots",
+    "title": "Blue Hour Geometry",
+    "caption": "Modern Addis under a sky that refused to be subtle.",
+    "alt": "Modern curved buildings in Addis Ababa beneath a dramatic blue sky",
+    "width": 2880,
+    "height": 3840
+  },
+  {
+    "slug": "city-overlook",
+    "category": "shots",
+    "title": "Before the Rain",
+    "caption": "A wide city view, low clouds, and the feeling that the weather is about to make a point.",
+    "alt": "Addis Ababa skyline viewed from a green park beneath heavy clouds",
+    "width": 3840,
+    "height": 2880
+  },
+  {
+    "slug": "aau-gate",
+    "category": "shots",
+    "title": "The Old Gate",
+    "caption": "A familiar threshold at Addis Ababa University—history, movement, and everyday life in one frame.",
+    "alt": "Historic main gate of Addis Ababa University with pedestrians passing by",
+    "width": 3840,
+    "height": 2226
+  },
+  {
+    "slug": "after-rain",
+    "category": "shots",
+    "title": "After the Rain",
+    "caption": "Wet pavement, crowded streets, and a small break of light over the city.",
+    "alt": "Rain-wet city square in Addis Ababa under dramatic clouds and filtered sunlight",
+    "width": 2880,
+    "height": 3840
+  },
+  {
+    "slug": "software-graduate",
+    "category": "shots",
+    "title": "A New Chapter",
+    "caption": "A graduation portrait built around confidence, celebration, and a little visual mischief.",
+    "alt": "Software graduate posing outdoors between two floating diploma folders",
+    "width": 3840,
+    "height": 2559
+  },
+  {
+    "slug": "statistics-portrait",
+    "category": "shots",
+    "title": "Portrait in Crimson",
+    "caption": "A quiet, cinematic graduation portrait with the campus doing the background work.",
+    "alt": "Statistics graduate wearing a crimson stole and formal vest on campus",
+    "width": 2559,
+    "height": 3840
+  },
+  {
+    "slug": "moment-standing",
+    "category": "moments",
+    "title": "We Made It",
+    "caption": "A shared graduation frame—and proof that serious milestones can still look effortless.",
+    "alt": "Kibreab and a fellow graduate standing together in graduation gowns",
+    "width": 2559,
+    "height": 3840
+  },
+  {
+    "slug": "moment-seated",
+    "category": "moments",
+    "title": "Between Chapters",
+    "caption": "One ceremony, two degrees, and a pause before whatever comes next.",
+    "alt": "Kibreab and a fellow graduate seated together in graduation attire",
+    "width": 2559,
+    "height": 3840
+  },
+  {
+    "slug": "moment-steps-suit",
+    "category": "moments",
+    "title": "From Above",
+    "caption": "A staircase, a milestone, and the kind of frame that keeps the whole day in perspective.",
+    "alt": "Kibreab in a light suit with a fellow graduate on broad stone steps",
+    "width": 2559,
+    "height": 3840
+  },
+  {
+    "slug": "moment-steps-standing",
+    "category": "moments",
+    "title": "Steps Forward",
+    "caption": "A classic graduation portrait with enough empty space to imagine the next chapter.",
+    "alt": "Kibreab and a fellow graduate standing together on broad stone steps",
+    "width": 2559,
+    "height": 3840
+  },
+  {
+    "slug": "moment-palms",
+    "category": "moments",
+    "title": "Under the Palms",
+    "caption": "A softer frame from a loud, unforgettable day.",
+    "alt": "Kibreab and a fellow graduate posing beneath palm trees in academic gowns",
+    "width": 2559,
+    "height": 3840
+  },
+  {
+    "slug": "moment-back-to-back",
+    "category": "moments",
+    "title": "Back to Back",
+    "caption": "One of those photographs that feels staged and completely real at the same time.",
+    "alt": "Kibreab and a fellow graduate posing back to back beneath palm trees",
+    "width": 2559,
+    "height": 3840
+  }
+]
