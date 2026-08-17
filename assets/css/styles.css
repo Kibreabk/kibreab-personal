@@ -833,3 +833,117 @@ body[data-page="photography"] .gallery-copy p {
   }
 
 }
+/* =========================================================
+   PHOTOGRAPHY — SMALLER CLEAN GALLERY FIX
+   ========================================================= */
+
+body[data-page="photography"] .photo-section .shell {
+  max-width: 1050px;
+}
+
+
+/* Stop the old 12-column oversized mosaic */
+body[data-page="photography"] .photo-grid {
+  display: grid;
+
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-auto-rows: auto;
+
+  gap: 28px;
+
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Make ALL photos normal-sized cards */
+body[data-page="photography"] .photo-card,
+body[data-page="photography"] .photo-card.photo-wide,
+body[data-page="photography"] .photo-card.photo-tall {
+  grid-column: auto;
+  grid-row: auto;
+
+  width: 100%;
+  height: auto;
+
+  aspect-ratio: 4 / 5;
+
+  border-radius: 12px;
+}
+
+
+/* Landscape photos */
+body[data-page="photography"] .photo-card.photo-wide {
+  aspect-ratio: 4 / 3;
+}
+
+
+/* Keep images inside the smaller card */
+body[data-page="photography"] .photo-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* Make title area less dramatic */
+body[data-page="photography"] .photo-overlay {
+  padding: 40px 16px 15px;
+
+  transform: none;
+}
+
+body[data-page="photography"] .photo-overlay strong {
+  font-size: 19px;
+}
+
+
+/* Show description normally */
+body[data-page="photography"] .photo-overlay small {
+  max-width: 32ch;
+
+  margin-top: 4px;
+
+  font-size: 11px;
+  line-height: 1.5;
+
+  opacity: 1;
+}
+
+
+/* =========================================================
+   TABLET — 2 photos per row
+   ========================================================= */
+
+@media (max-width: 900px) {
+
+  body[data-page="photography"] .photo-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    max-width: 700px;
+
+    gap: 24px;
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE — 1 smaller photo per row
+   ========================================================= */
+
+@media (max-width: 600px) {
+
+  body[data-page="photography"] .photo-grid {
+    grid-template-columns: 1fr;
+
+    max-width: 360px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    gap: 32px;
+  }
+
+}
