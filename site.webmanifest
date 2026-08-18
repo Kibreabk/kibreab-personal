@@ -1,0 +1,21 @@
+{
+  "name": "Kibreab Kebede",
+  "short_name": "Kibreab",
+  "description": "Personal portfolio, bookshelf, and interests of Kibreab Kebede.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#11100f",
+  "theme_color": "#11100f",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
